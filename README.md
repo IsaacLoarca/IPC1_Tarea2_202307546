@@ -1,1 +1,7 @@
-# IPC1_Tarea2_202307546
+# TAREA2 IPC1
+
+| Nombre | Carnet |
+
+| --------- | ------- |
+
+| Isaac Mahanaim Loarca Bautista | 202307546 |
