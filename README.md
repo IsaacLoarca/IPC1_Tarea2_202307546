@@ -1,6 +1,6 @@
 #TAREA2 IPC1
 
 
-| Nombre | Carnet |
+| Isaac | 202307546 |
 
-| Isaac Mahanaim Loarca Bautista | 202307546 |
+| --------- | ------- |
